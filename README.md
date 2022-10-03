@@ -1,6 +1,6 @@
 # Scientific Computing with Python
 
-This respository captures my personal solutions to the Scientific Computing with Python Certification projects.
+This repository serves as a place to store my solution to the following problems assigned by the freeCodeCamp course.
 - Arithmetic Formatter
 - Time Calculator
 - Budget App
