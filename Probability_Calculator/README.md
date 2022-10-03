@@ -40,3 +40,5 @@ Since this is based on random draws, the probability will be slightly different 
 <br>
 
 [FreeCodeCamp](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/probability-calculator)
+
+[README Template](https://github.com/sfoteini/scientific-computing-python-freeCodeCamp/blob/main/probability-calculator/README.md) Thank You! I had no idea how to format or write with GitHub because I'm still new to using it so thanks!
