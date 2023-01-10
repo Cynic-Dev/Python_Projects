@@ -1,7 +1,7 @@
 import copy
 import random
 # Consider using the modules imported above.
-
+# Written with the consideration of beginner readability hence the lack of simplified syntax and list comprehensions
 
 class Hat:
 
