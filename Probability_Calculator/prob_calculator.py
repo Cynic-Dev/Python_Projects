@@ -13,8 +13,7 @@ class Hat:
             rand = []
             for i in range(n):
                 rand.append(
-                    self.contents.pop(random.choice(range(len(
-                        self.contents)))))
+                    self.contents.pop(random.choice(range(len(self.contents)))))
             return rand
         else:
             return self.contents
