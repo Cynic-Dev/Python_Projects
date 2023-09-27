@@ -25,6 +25,7 @@ def arithmetic_arranger(problems, answer=False):
         return "Error: Numbers cannot be more than four digits."
     
     # Formatting process
+    # Use join function at later stage
     line1 = []
     line2 = []
     dash = []
